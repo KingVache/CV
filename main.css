@@ -1,0 +1,143 @@
+body {background-color: rgb(255, 255, 255);}
+.container {
+    height: 100vh;
+    display: flex;
+  }
+  
+  .one-sixth {
+    width: 33.33%; 
+    background-color: rgb(87, 87, 86); 
+  }
+
+  .container2 {
+    height: 100vh;
+    position: relative; 
+  }
+  
+  .one-half {
+    position: absolute;
+    top: 0;
+    width: 300%;
+    height: 25vh; 
+    background-color: rgb(87, 87, 86); 
+  }
+
+  .container {
+    position: relative;
+  }
+  .selfie {
+    position: absolute;
+    top: 15px;
+    left: 40px;
+  }
+
+  .Infos1 {
+    position: absolute;
+    top: -40px;
+    left: 280px;
+    color : white ;
+    font-size: 50px;
+  }
+  .Infos2{
+  position: absolute;
+    top: 70px;
+    left: 280px;
+    color : white ;
+    font-size: 16px;
+  }
+  .titre{
+    text-decoration: underline;
+    font-size: 25px;
+}
+    .Infos3{
+        position: absolute;
+          top: 232px;
+          left: 20px;
+          color : white ;
+          font-size: 16px;
+          line-height: 0.8;
+        }
+.Infos4{
+    position: absolute;
+      top: 420px;
+      left: 20px;
+      color : white ;
+      font-size: 16px;
+      line-height: 0.8;
+    }
+.Infos5{
+        position: absolute;
+          top: 620px;
+          left: 20px;
+          color : white ;
+          font-size: 16px;
+          line-height: 0.8;
+        }
+.parcours1{
+  position: absolute;
+  top: 205px;
+  left: 300px;
+  color: black;
+  font-size: 16px;
+  line-height: 0.6;
+}
+.titreparcours{
+  font-size : 32px;
+}
+.logonws{
+  position: absolute;
+  top: 230px;
+  left: 680px;
+}
+.parcours2{
+  position: absolute;
+  top: 350px;
+  left: 300px;
+  color: black;
+  font-size: 16px;
+  line-height: 0.7;
+}
+.logojda{
+  position: absolute;
+  top: 340px;
+  left: 655px;
+}
+.parcours3{
+  position: absolute;
+  top: 410px;
+  left: 300px;
+  color: black;
+  font-size: 16px;
+  line-height: 0.4;
+}
+.logobpp{
+  position: absolute;
+  top: 485px;
+  left: 680px;
+}
+.parcours4{
+  position: absolute;
+  top: 575px;
+  left: 300px;
+  color: black;
+  font-size: 16px;
+  line-height: 0.4;
+}
+.logosort{
+  position: absolute;
+  top: 600px;
+  left: 660px;
+}
+.parcours5{
+  position: absolute;
+  top: 690px;
+  left: 300px;
+  color: black;
+  font-size: 16px;
+  line-height: 0.4;
+}
+.logoarchi{
+  position: absolute;
+  top: 710px;
+  left: 660px;
+}
